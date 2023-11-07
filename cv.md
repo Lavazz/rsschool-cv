@@ -40,3 +40,6 @@ function solution(str){
 __Expireance:__ I finished BSTU in 2009 as engeneer chemists. In 2019 I had Epam Java cources In 2020 I learned in Epam Java lab. I've been working for Epam since octuber 2020.
 
 __English:__ B1+
+
+
+AAAAAA
