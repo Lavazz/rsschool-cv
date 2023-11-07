@@ -35,7 +35,7 @@ function solution(str){
 ```
 ***************************************************************************************
 
-[Project](https://github.com/Lavazz/CoffeeMachineKoloshych https://github.com/Lavazz/courses-app)
+[Project](https://github.com/Lavazz/CoffeeMachineKoloshych)
 
 __Expireance:__ I finished BSTU in 2009 as engeneer chemists. In 2019 I had Epam Java cources In 2020 I learned in Epam Java lab. I've been working for Epam since octuber 2020.
 
