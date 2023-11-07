@@ -1,1 +1,1 @@
-1.[CV#1. Markdown & Git](https://lavazz.github.io/rsschool-cv/cv) 
+1.[HTML, CSS & Git Basics](https://lavazz.github.io/rsschool-cv/) 
